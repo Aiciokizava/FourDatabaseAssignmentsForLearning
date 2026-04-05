@@ -47,7 +47,7 @@
 
 ### Требования
 
-- **MySQL 8.0+** (необходима поддержка `WITH RECURSIVE`)
+- **MySQL 8.0+**
 - Любой SQL-клиент: phpMyAdmin, MySQL Workbench, DBeaver или командная строка
 
 ### Шаги
